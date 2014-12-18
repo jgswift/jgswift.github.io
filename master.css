@@ -1,0 +1,37 @@
+body {
+    font-family: Arial;
+    margin: 0 auto;
+    width: 780px;
+}
+    
+header {
+    background-color:lightgray;
+    padding:15px;
+    border-radius: 0 0 15px 15px;
+}
+
+.package-list a {
+    font-weight:bold;
+    font-size:115%;
+}
+
+.package-list * {
+    font-size:105%;
+}
+
+.package-list {
+    width:100%;
+}
+
+.package-list td {
+    border-bottom: 1px black dotted;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color:blue;
+    text-decoration: none;
+}
