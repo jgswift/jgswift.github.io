@@ -25,6 +25,12 @@ header {
 
 .package-list td {
     border-bottom: 1px black dotted;
+    padding:2px;
+}
+
+.package-list img {
+    vertical-align:middle;
+    float:right;
 }
 
 a {
