@@ -16,7 +16,7 @@ header {
 }
 
 .package-list * {
-    font-size:105%;
+    font-size:95%;
 }
 
 .package-list {
@@ -25,7 +25,7 @@ header {
 
 .package-list td {
     border-bottom: 1px black dotted;
-    padding:2px;
+    padding:5px;
 }
 
 .package-list img {
